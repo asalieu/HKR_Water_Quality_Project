@@ -16,7 +16,7 @@
     "@material-ui/core": "^4.9.11",
     "@material-ui/lab": "^4.0.0-alpha.50",
     "@material-ui/pickers": "^3.2.10",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "bootstrap-select": "^1.13.15",
     "chart.js": "^2.9.3",
